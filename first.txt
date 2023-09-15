@@ -2,3 +2,8 @@ Git‚Ì—ûK
 
 •ÏX‚µ‚½‚º
 
+git add
+git commit
+
+
+
